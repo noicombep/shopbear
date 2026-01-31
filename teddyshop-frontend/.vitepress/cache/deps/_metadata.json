@@ -1,91 +1,91 @@
 {
-  "hash": "4aa02561",
+  "hash": "3030858f",
   "configHash": "f3ddf729",
-  "lockfileHash": "d487bf6a",
-  "browserHash": "362b4c90",
+  "lockfileHash": "2b6f21e7",
+  "browserHash": "8c819c1a",
   "optimized": {
     "axios": {
       "src": "../../../node_modules/axios/index.js",
       "file": "axios.js",
-      "fileHash": "153841a6",
+      "fileHash": "7c19a7f5",
       "needsInterop": false
     },
     "clsx": {
       "src": "../../../node_modules/clsx/dist/clsx.mjs",
       "file": "clsx.js",
-      "fileHash": "f6368496",
+      "fileHash": "6a1f5f72",
       "needsInterop": false
     },
     "lucide-react": {
       "src": "../../../node_modules/lucide-react/dist/esm/lucide-react.js",
       "file": "lucide-react.js",
-      "fileHash": "d82d72c2",
+      "fileHash": "f951bcb2",
       "needsInterop": false
     },
     "react-dom": {
       "src": "../../../node_modules/react-dom/index.js",
       "file": "react-dom.js",
-      "fileHash": "3a96a4d7",
+      "fileHash": "893c9137",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "1b3dc813",
+      "fileHash": "97e62623",
       "needsInterop": true
     },
     "react-router-dom": {
       "src": "../../../node_modules/react-router-dom/dist/index.mjs",
       "file": "react-router-dom.js",
-      "fileHash": "be3a88fb",
+      "fileHash": "dd0d0acc",
       "needsInterop": false
     },
     "react": {
       "src": "../../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "f355b687",
+      "fileHash": "0f84f710",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../../node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "e3bd2b14",
+      "fileHash": "98ebc0ba",
       "needsInterop": true
     },
     "react/jsx-runtime": {
       "src": "../../../node_modules/react/jsx-runtime.js",
       "file": "react_jsx-runtime.js",
-      "fileHash": "e71b01fc",
+      "fileHash": "d1ab79b3",
       "needsInterop": true
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "5e1863cf",
+      "fileHash": "3181226b",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/dist/index.js",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "869d8e72",
+      "fileHash": "f7426dbb",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "fd004563",
+      "fileHash": "5f32dd1d",
       "needsInterop": false
     },
     "zustand": {
       "src": "../../../node_modules/zustand/esm/index.mjs",
       "file": "zustand.js",
-      "fileHash": "0d595306",
+      "fileHash": "de8a985c",
       "needsInterop": false
     },
     "zustand/middleware": {
       "src": "../../../node_modules/zustand/esm/middleware.mjs",
       "file": "zustand_middleware.js",
-      "fileHash": "ee3a8f91",
+      "fileHash": "871b05cf",
       "needsInterop": false
     }
   },
